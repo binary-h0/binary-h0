@@ -18,7 +18,7 @@
         </div>
     </div>
     <div>
-            <img src="" alt="ISCC">
+        <img src="./img/iscc.png" alt="ISCC" width=200px>
         <div align=left>
             <h3><strong>International University Student Creative Car Competition - Self-Driving Division</strong></h3>
             <li><strong>6th out of 30 teams</strong></li>
