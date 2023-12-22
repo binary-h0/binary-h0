@@ -1,26 +1,3 @@
-<!--
-**binary-h0/binary-h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<style>
-    #award_item {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        width: 800px;
-        /* height: 300px; */
-    }
-</style>
 <h2> 👋🏻 Hello I'm Jinho Lee </h2>
 <!-- introduce myself -->
 
@@ -32,9 +9,9 @@ Here are some ideas to get you started:
 <br/><br/><h2> 🏆 Awards </h2>
 
 <div align=center>
-    <div id="award_item">
+    <div>
         <div>
-            사진 sdf
+            <img src="binary-ho/img/fmtc.png" alt="FMTC">
         </div>
         <div align=left>
             <h3><strong>Future Mobility Urban Challenge</strong></h3>
@@ -42,9 +19,9 @@ Here are some ideas to get you started:
             <li>2022.11</li>
         </div>
     </div>
-    <div id="award_item">
+    <div>
         <div>
-            사진 sdf
+            <img src="" alt="ISCC">
         </div>
         <div align=left>
             <h3><strong>International University Student Creative Car Competition - Self-Driving Division</strong></h3>
