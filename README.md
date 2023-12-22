@@ -31,4 +31,15 @@
 <br/><br/><h2> 🛠️ Stacks </h2>
 
 <br/><br/><h2> 📝 More Info </h2>
+
+### Solved.ac Tier
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piggyda12)](https://solved.ac/piggyda12/)
+
+### Github Stats
+
+[![binary-h0's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-h0&count_private=true&show_icons=true&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Languages
+
+[![binary-h0's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-h0&layout=compact&bg_color=0,CDF0EA,F9F9F9,F7DBF0,BEAEE2)](https://github.com/anuraghazra/github-readme-stats)
