@@ -11,7 +11,7 @@
 <div align=center>
     <div>
         <div>
-            <img src="binary-ho/img/fmtc.png" alt="FMTC">
+            <img src="./img/fmtc.png" alt="FMTC">
         </div>
         <div align=left>
             <h3><strong>Future Mobility Urban Challenge</strong></h3>
