@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinary-h0%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23CD2828&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h2> 👋🏻 Hello I'm Jinho Lee </h2>
 
 <br/><br/><h2> 🧑🏻‍💻 Experince </h2>
@@ -51,6 +53,7 @@
 
 <div align=center>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </div>
 
 ### OS
