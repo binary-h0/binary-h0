@@ -10,9 +10,7 @@
 
 <div align=center>
     <div>
-        <div>
-            <img src="./img/fmtc.png" alt="FMTC">
-        </div>
+        <img src="./img/fmtc.png" alt="FMTC" width=200px>
         <div align=left>
             <h3><strong>Future Mobility Urban Challenge</strong></h3>
             <li><strong>Innovation Award</strong></li>
@@ -20,9 +18,7 @@
         </div>
     </div>
     <div>
-        <div>
             <img src="" alt="ISCC">
-        </div>
         <div align=left>
             <h3><strong>International University Student Creative Car Competition - Self-Driving Division</strong></h3>
             <li><strong>6th out of 30 teams</strong></li>
