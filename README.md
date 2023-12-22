@@ -3,14 +3,14 @@
 
 <br/><br/><h2> 🧑🏻‍💻 Experince </h2>
 
-- `2023.03 ~ 2023.12` **Software Maestro 14th** <br/>
+- `2023.03 ~ 2023.12` **Software Maestro 14th**
 -
 
 <br/><br/><h2> 🏆 Awards </h2>
 
 <div align=center>
-    <div style="display: flex; flex-direction: row">
-        <img src="./img/fmtc.png" alt="FMTC" width=250px>
+    <div>
+        <img src="./img/fmtc.png" alt="FMTC" width=200px>
         <div align=left>
             <h3><strong>Future Mobility Urban Challenge</strong></h3>
             <li><strong>Innovation Award</strong></li>
@@ -18,8 +18,8 @@
         </div>
     </div>
     <br/>
-    <div style="display: flex">
-        <img src="./img/iscc.png" alt="ISCC" width=250px>
+    <div>
+        <img src="./img/iscc.png" alt="ISCC" width=200px>
         <div align=left>
             <h3><strong>International University Student Creative Car Competition - Self-Driving Division</strong></h3>
             <li><strong>6th out of 30 teams</strong></li>
@@ -31,3 +31,4 @@
 <br/><br/><h2> 🛠️ Stacks </h2>
 
 <br/><br/><h2> 📝 More Info </h2>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piggyda12)](https://solved.ac/piggyda12/)
